@@ -1,0 +1,8 @@
+make [all] - to build everything
+make check - to run available tests
+
+After building everything server is available at dist/server/led_server.
+It can be run by just `./dist/server/led_server'.
+Client is a single script ./client/client.sh
+Note that there is a limitation that client and server are to be run
+from the same directory. It may be fixed in the following versions.

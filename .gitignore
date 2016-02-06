@@ -1,0 +1,6 @@
+# vim swap-files
+.*.swp
+
+# directories created by make
+obj
+dist

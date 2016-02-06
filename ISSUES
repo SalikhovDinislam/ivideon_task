@@ -1,0 +1,8 @@
+Run `make todo' to see all TODOs in the code.
+Below are listed issues that don't have corresponding TODO in the code.
+
+Client and server can be run only at the same directory,
+otherwise they can't see each other. Ther should be ability to run them
+from different directories.
+
+Make check should check server's functionality.
